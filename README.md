@@ -15,6 +15,19 @@ My fieldwork also includes coffee-farm risk research and participation in visits
 
 I hold a **Bachelor of Science in Insurance and Risk Management** from the Institute of Finance Management, Tanzania. I work in English and Swahili.
 
+## Career and education timeline
+
+These dates describe my work and education. Repository commit dates show when the portfolio files were added to GitHub.
+
+| Year | Work or education |
+| --- | --- |
+| 2021 | Volunteered at ESTIM, supervising the materials store and maintaining records of materials issued. |
+| 2022 | Began my Bachelor of Science in Insurance and Risk Management at the Institute of Finance Management. |
+| 2023 | Continued my degree and completed a July–October field attachment at BUMACO Insurance in Mwanza, supporting underwriting and claims documentation under supervision. |
+| 2024 | Completed another July–October attachment at BUMACO. Alongside underwriting and claims support, I collected field data for insurance product piloting. |
+| 2025 | Completed my degree and joined Britam Insurance in Dar es Salaam in August, working with life, health and motor insurance. |
+| 2026 | Continued at Britam until May. Joined Kaderes Insurance Brokers in Kagera in July, working with motor, fire, cargo and livestock insurance documentation and field risk research. |
+
 ## Featured projects
 
 ### [Tanzania Motor Insurance Record Review](https://github.com/eradius9/tanzania-motor-insurance-review)
