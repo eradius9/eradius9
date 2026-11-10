@@ -1,16 +1,28 @@
-## Hi there 👋
+# Elius Mukiza Eradius
 
-<!--
-**eradius9/eradius9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Insurance and risk management professional based in Tanzania. My experience combines policy administration, client service, field data collection and business records. I use this space to share practical review methods and clearly documented working templates.
 
-Here are some ideas to get you started:
+## Professional background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Kaderes Insurance Brokers:** motor policies across new business and renewals, fire, cargo and goods in transit cover, livestock registration documentation and field risk research.
+- **Britam Insurance Company:** life, health and motor insurance, client records and documentation follow-up using Smart Policy CRM and Excel.
+- **BUMACO Insurance Company:** underwriting and claims support during field attachments in 2023 and 2024. My 2024 work also included field data collection for insurance product piloting.
+- **ESTIM:** construction materials store records during volunteer work in 2021.
+
+At Kaderes I have handled more than 200 motor policies across new business and renewals and supported insurance registration for over 1,000 cattle. Across my insurance assignments I have served more than 600 clients.
+
+I hold a **Bachelor of Science in Insurance and Risk Management** from the Institute of Finance Management, Tanzania. I work in English and Swahili.
+
+## Featured project
+
+### [Tanzania Motor Insurance Record Review](https://github.com/eradius9/tanzania-motor-insurance-review)
+
+A blank quotation register, a document review checklist and a Python helper for checking comprehensive motor base-premium arithmetic. The review uses the sum insured and the rate supplied in the insurer's quotation. Applicable minimums remain explicit inputs, and missing information stays visible.
+
+The project contains no customer records or preset market rates. Its documentation describes the scope, Tanzania references and AI assistance used in drafting and coding.
+
+## Areas of work
+
+Insurance operations, policy records, document review, data quality, Excel analysis and business record keeping. My repositories focus on practical examples related to this background.
+
+For freelance enquiries, please use my [Upwork profile](https://www.upwork.com/freelancers/~0142c55329e92c18ae).
