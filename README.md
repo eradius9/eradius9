@@ -41,4 +41,10 @@ Reusable starting templates for policy follow-up, claims document tracking, fiel
 
 Insurance operations, policy records, document review, data quality, Excel analysis and business record keeping. My experience also supports field data collection and clear written follow-up. I aim to make the source of each record and the next action easy for another person to follow.
 
-For freelance enquiries, please use my [Upwork profile](https://www.upwork.com/freelancers/~0142c55329e92c18ae).
+I can also support text annotation, AI response evaluation, rating and data quality checks in projects with clear guidelines, particularly where insurance knowledge or English and Swahili are useful.
+
+### Professional profiles
+
+- [LinkedIn](https://www.linkedin.com/in/elius-m/): professional background and career updates.
+- [OpenTrain AI](https://app.opentrain.ai/labeler-profile/cmw6ao8ir00cb08l2panrvs7n): my profile for AI training and data support opportunities.
+- [Upwork](https://www.upwork.com/freelancers/~0142c55329e92c18ae): freelance enquiries and project discussions.
